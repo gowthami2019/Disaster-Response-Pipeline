@@ -1,6 +1,7 @@
 # Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
 
-![Intro Pic](screenshots/intro.png)
+![Intro Pic](C:\Users\my pc\Documents\Capture.PNG)
+
 
 
 ## Table of Contents
