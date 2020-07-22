@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
 
-![Intro Pic](C:\Users\my pc\Documents\Capture.PNG)
+![Screenshot 1](https://user-images.githubusercontent.com/48951060/88213086-e4cb7380-cc75-11ea-8111-c9bab2bdbdcb.PNG)
 
 
 
