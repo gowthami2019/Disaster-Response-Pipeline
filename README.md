@@ -81,4 +81,11 @@ You can use **ML Pipeline Preparation Notebook** to re-train the model or tune i
 * [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
 * [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
 
-
+<a name="screenshots"></a>
+## Screenshots
+1. This is an example of a message we can type to test the performance of the model
+![Capture](https://user-images.githubusercontent.com/48951060/88327732-f7f94480-cd44-11ea-8764-2559fd182ec9.PNG)
+2. After clicking **Classify Message**, we can see the categories which the message belongs to highlighted in green
+![Capture PNG1](https://user-images.githubusercontent.com/48951060/88327812-14957c80-cd45-11ea-8efa-879b363b714c.PNG)
+3. The main page shows some graphs about training dataset, provided by Figure Eight
+![disaster-response-project1](https://user-images.githubusercontent.com/48951060/88328080-866dc600-cd45-11ea-8f97-dc28b653a806.png)
